@@ -1,0 +1,53 @@
+header {
+    background-color: rgb(95, 10, 10);
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(245, 245, 240);
+}
+
+.textoPrimero {
+    text-align:justify;
+    background-color: rgb(182, 129, 49);    
+}
+
+
+.textoSegundo {
+    text-align:left ;
+    background-color:rgb(194, 148, 78) ;  
+    display: flex;
+    line-height: 2.0;
+    color:black;
+    
+}
+
+
+.mapaRuta {
+    text-align: center;
+    background-color: rgb(182, 129, 49);
+   
+}
+
+.mapaNet {
+    text-align: center;
+}
+
+.rutaDelV {
+    background-color: rgb(194, 148, 78);
+}
+
+.piePagina {
+    background-color:rgb(95, 10, 10);
+    text-align: center;
+    color:  rgb(245, 245, 240);
+}
+
+
+
+h1 {
+    color: rgb(7, 7, 7);
+    text-align: center;
+}
+
+#arriba {
+    color: rgb(248, 248, 248);
+}
